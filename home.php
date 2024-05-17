@@ -74,6 +74,8 @@
 
                 echo "</td>";
                 echo "</tr>";
+
+                echo "<a href="home.php"><input type="button" value="Back"></a>"
             }
         ?>
 

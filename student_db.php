@@ -1,9 +1,9 @@
 <?php
     // Database credentials
     $servername = "localhost";
-    $username = "root";
-    $password = ""; 
-    $dbname = "student_db";
+    $username = "id22177543_jm3sh";
+    $password = "StudentsInfo_System111!"; 
+    $dbname = "id22177543_jtastudents";
 
     // Create connection
     $conn = mysqli_connect($servername, $username, $password, $dbname);
